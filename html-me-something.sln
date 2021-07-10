@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89015760-8E77-4899-9090-1F3D2D75D6DB}"
+	ProjectSection(SolutionItems) = preProject
+		Index.html = Index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{5D15641B-BC47-44C9-ADCB-50A2E130AA57}"
+	ProjectSection(SolutionItems) = preProject
+		Army.jpg = Army.jpg
+		fruit_tree.gif = fruit_tree.gif
+		giphy.gif = giphy.gif
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D15641B-BC47-44C9-ADCB-50A2E130AA57} = {89015760-8E77-4899-9090-1F3D2D75D6DB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F05E686-7C2D-4235-81E1-DBD18FECD2FA}
+	EndGlobalSection
+EndGlobal
