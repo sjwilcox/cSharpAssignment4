@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89015760-8E77-4899-9090-1F3D2D75D6DB}"
 	ProjectSection(SolutionItems) = preProject
 		Index.html = Index.html
+		Styles.css = Styles.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{5D15641B-BC47-44C9-ADCB-50A2E130AA57}"
@@ -13,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{5D1564
 		Army.jpg = Army.jpg
 		fruit_tree.gif = fruit_tree.gif
 		giphy.gif = giphy.gif
+		WorldView4.png = WorldView4.png
 	EndProjectSection
 EndProject
 Global

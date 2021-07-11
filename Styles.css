@@ -1,0 +1,76 @@
+﻿body::after {
+    content: "";
+    background-image: url("worldview4.png");
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
+}
+body {
+    font-family: 'Courier New';
+}
+h1{
+    text-align:center;
+}
+nav {
+    width: 100%;
+    height: 50px;
+    background: #7ECAF2;
+    border-top: 1px solid #7ECAF2;
+    border-bottom 1px solid #7ECAF2;
+    
+}
+nav ul{
+    display: flex;
+    margin: 0;
+    padding:0 20px;
+    
+}
+nav ul li{
+    display:block;
+    color:gray;
+    padding: 0 20px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bold;
+    line-height: 50px;
+}
+a {
+    color: #2C934B;
+    text-decoration: none;
+}
+.paragraphs{
+   
+    font-size: 25px;
+    color:azure;
+    background-color:black;
+}
+.column1 {
+    float:left;
+    width: 45%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column2{
+    float:right;
+    width: 45%;
+}
+#para1{
+    margin-bottom: 21%;
+}
+#tree{
+    margin-bottom: 17%;
+}
+#para2{
+    margin-bottom: 14%;
+}
+#head2{
+    margin-left: 6%;
+}
